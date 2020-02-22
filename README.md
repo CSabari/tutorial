@@ -1,2 +1,2 @@
 # tutorial
-react native tutorial
+react native tutorial by rockstar
